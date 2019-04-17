@@ -12,4 +12,5 @@ Run the **Carcode** python file and input the code for example :FXAR (case-nonse
 
 Modify the pick up and drop off for the date and location in  **FunCos** python file, you will have prices information for all kinds of car.  
 
-<minhao.gao@scotiabank.com>
+
+Note: Final step need personal costco travel account to log in and book the travel. this script only provides price infromation 
