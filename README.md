@@ -5,7 +5,7 @@ Costco Travel Car Rental Booking  by  Selenium
 
 Everytime we got a 4-letters code for the car we rent, which shows the type of the car in  the standardised system.
 
-Run the ##Carcode python file and input the code for example :FXAR (case-nonsensitive)  it will tell you what type it is.
+##Run the Carcode python file and input the code for example :FXAR (case-nonsensitive)  it will tell you what type it is.
 
 
 
